@@ -1,0 +1,34 @@
+[pylint]
+disable=
+    bad-continuation,
+    bad-indentation,
+    bad-whitespace,
+    broad-except,
+    consider-using-f-string,
+    import-error,
+    invalid-name,
+    line-too-long,
+    missing-function-docstring,
+    missing-module-docstring,
+    no-else-raise,
+    no-else-return,
+    no-self-use,
+    singleton-comparison,
+    superfluous-parens,
+    too-many-branches,
+    too-many-instance-attributes,
+    too-many-locals,
+    trailing-newlines,
+    unidiomatic-typecheck,
+    unused-argument,
+    unused-import,
+    unused-wildcard-import,
+    useless-object-inheritance,
+    wildcard-import,
+    wrong-import-position,
+good-names=
+    template-python
+ignore=
+    __init__.py,
+notes=
+    FIXME,
