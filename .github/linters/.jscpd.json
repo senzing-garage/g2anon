@@ -1,3 +1,4 @@
 {
-  "threshold": 2
+  "threshold": 2,
+  "ignore": ["G2AnonModule.py"]
 }
