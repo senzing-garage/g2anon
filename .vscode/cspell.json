@@ -1,22 +1,20 @@
 {
-  // Version of the setting file.  Always 0.2
   "version": "0.2",
-  // language - current active spelling language
   "language": "en",
-  // words - list of words to be always considered correct
   "words": [
-      "analysing",
-      "anonimizer",
-      "CCLA",
-      "CODEOWNER",
-      "csvreader",
-      "ICLA",
-      "mypy",
-      "pylint",
-      "Senzing",
-      "shellcheck",
-      "stackoverflow"
-    ],
+    "CCLA",
+    "CODEOWNER",
+    "ICLA",
+    "Senzing",
+    "analysing",
+    "anonimizer",
+    "csvreader",
+    "esbenp",
+    "mypy",
+    "pylint",
+    "shellcheck",
+    "stackoverflow"
+  ],
   "ignorePaths": [
     ".git/**",
     ".mypy_cache/**"
